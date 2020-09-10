@@ -1,4 +1,0 @@
-BINS := TEST
-
-INCLUDES := -I.
-
